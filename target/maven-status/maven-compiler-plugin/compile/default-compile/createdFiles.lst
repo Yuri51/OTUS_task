@@ -1,0 +1,12 @@
+pages\BasePage.class
+pages\EconomyPage.class
+pages\PoliticsPage.class
+pages\IncidentsPage.class
+common\Config.class
+pages\MainPage.class
+pages\SocietyPage.class
+constants\Constants$timeOutVarible.class
+pages\WorldPage.class
+common\CommonActions.class
+constants\Constants.class
+constants\Constants$urls.class
