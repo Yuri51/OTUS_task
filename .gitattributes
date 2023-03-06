@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-* .java linguist-обнаруживаемый = true
-* .js linguist-обнаруживаемый = false
-* .html linguist-обнаруживаемый = false
-* .xml linguist-обнаруживаемый = false
+* .java linguist = true
+* .js linguist = false
+* .html linguist = false
+* .xml linguist = false
